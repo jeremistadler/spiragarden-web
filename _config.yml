@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# global settings
+title: "Spiragården - En plats att växa på"
+description: "En plats att växa på"
+url: https://spiragården.se
+analytics_account: "UA-123"
+
+# build settings
+exclude: ["package.json"]
+markdown: kramdown
+gems:
+  - jekyll-sitemap
