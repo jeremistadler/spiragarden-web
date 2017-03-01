@@ -7,5 +7,3 @@ analytics_account: "UA-123"
 # build settings
 exclude: ["package.json"]
 markdown: kramdown
-gems:
-  - jekyll-sitemap
