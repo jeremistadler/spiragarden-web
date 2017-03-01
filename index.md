@@ -1,5 +1,6 @@
 ---
 layout: home
+navId: home
 title: Spiragården, en plats att växa på
 description: Ekologiskt hus bondgård med får, grisar, och hönor.
 permalink: /

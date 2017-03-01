@@ -150,6 +150,14 @@ li {
 	text-shadow: 0 0 10px black, 0 0 5px black;
 }
 
+.navbar-home .home {
+	text-decoration: underline;
+}
+
+.navbar-findus .findus {
+	text-decoration: underline;
+}
+
 .content {
   max-width: 600px;
   background-color: #fff;
