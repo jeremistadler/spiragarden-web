@@ -154,13 +154,4 @@ li {
   body { padding: 0; }
   h1, h2, h3 { line-height: 1.2em; }
   a { word-wrap: break-word; }
-  .splash { padding-top: 20px; font-size: 80%; }
-  .splash h1 { font-size: 237%; }
-  .splash h2 {font-size: 200%; }
-  .mini-section { padding: 20px; }
-  .the-orgs { left: 0; }
-  .source-data-code img { border: none; }
-  .human .mini-section { width: 80%; }
-  .full-width.olives { background-size: 190%; }
-  .support-page .full-width.olives { background-size: 140%; }
 }
