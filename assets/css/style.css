@@ -102,6 +102,10 @@ li {
   background-size: cover;
 }
 
+.header .upper {
+
+}
+
 .header .title {
 	font-family: 'Amatic SC', cursive;
 	font-size: 72px;
@@ -110,6 +114,12 @@ li {
 	text-align: center;
 
 	color: #fff;
+}
+
+.header .logo {
+	width: 30px;
+	height: 40px;
+	box-shadow: 10px 0 0 black;
 }
 
 .navbar {
