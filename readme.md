@@ -1,6 +1,35 @@
 # Spiragården.se website
 
-
-### Under the Hood
-
-This site is made with [Jekyll](http://jekyllrb.com), an open source static site generator. This means the Jekyll program takes the content we want to be on the site and turns them into HTML files ready to be hosted somewhere. Awesomely, GitHub provides free web hosting for repositories, called [GitHub Pages](http://pages.github.com/), and that's how this site is hosted.
+To get:	Type:
+<	<
+&	&
+paragraph break	one or more blank lines
+br	two spaces at end of line
+H1 (underlined style)	Your header 1
+================
+H2 (underlined style)	Your header 2
+----------------
+H1 (atx style)	#Your header 1
+H2	##Your header 2
+Continue down to H6	######Your header 6
+Blockquotes	> First level of quote
+> > Second level; a quote-within-a-quote
+Unordered List	* Item 1
++ Item 2
+- Item 3
++ Whatever.
+Ordered List	1. Item 1
+2. Item 2
+47. Item 3 still works.
+hr	*** or +++ or --- or * * * or any combination, on their own line
+link (inline)	[the link](http://thelink.com "Optional Title")
+link (reference)	link: [the link][id]
+definition: [the link][id] [id]: http://thelink.com "Optional Title"
+Multiple forms: see below.
+images	Same as links (inline or reference), except with ! before text, e.g.:
+![Alt text](/path/to/img.jpg)
+links (automatic)	<http://example.com/>
+<email-address@example.com>
+em	*em* or _em_
+strong	**strong** or __strong__
+code	`code` or ``code``
