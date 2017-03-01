@@ -4,6 +4,8 @@ body {
   color: #333;
 	margin: 0;
 	padding: 0;
+
+	background-color: #f7f7f7;
 }
 
 p {
@@ -96,7 +98,7 @@ li {
 
 
 .header {
-	background: url(../img/bg.jpg) no-repeat center center fixed;
+	background: url(../img/bg.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -106,8 +108,29 @@ li {
 
 	line-height: 200px;
 	text-align: center;
+
+	color: #fff;
 }
 
+.navbar {
+
+}
+
+.navbar .item {
+	color: #fff;
+	display: inline-block;
+	list-style-type: none;
+	margin: 10px 30px;
+}
+
+.content {
+	margin: 20px 0;
+}
+
+.contentInner {
+	max-width: 600px;
+	background-color: #fff;
+}
 
 /* Media Queries */
 /* -------------------------------------------------------------------------- */
