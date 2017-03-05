@@ -6,7 +6,7 @@ description: Ekologiskt hus bondgård med får, grisar, och hönor.
 permalink: /
 ---
 
-### Om Gården
+## Om Gården
 
 Spiragården är en liten idyllisk gård ute på landet utanför Örebro. Gården ligger precis vid skogen och det öppna jordbrukslandskapet och nära stan, endast 15 minuter från Örebro resecentrum och 5 km till Glanshammars kärna.
 
