@@ -169,12 +169,6 @@ li {
 }
 
 
-
-.wrapper {
-    width: 95%;
-    margin: 3em auto;
-}
-
 .masonry {
     margin: 1.5em 0;
     padding: 0;
@@ -184,7 +178,7 @@ li {
     font-size: .85em;
 }
 
-.item {
+.masonry .item {
     display: inline-block;
     background: #fff;
     padding: 1em;
@@ -228,11 +222,7 @@ li {
     }
 }
 
-@media only screen and (min-width: 1280px) {
-    .wrapper {
-        width: 1260px;
-    }
-}
+
 
 /* Media Queries */
 /* -------------------------------------------------------------------------- */
