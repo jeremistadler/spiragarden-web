@@ -183,6 +183,7 @@ li {
   -webkit-column-gap: 20px;
   column-gap: 20px;
   font-size: 0;
+  column-rule: 1px solid #c3c3c3;
 }
 
 .masonry .item {
