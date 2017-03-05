@@ -168,7 +168,7 @@ li {
 }
 
 .content {
-  max-width: 600px;
+  max-width: 800px;
   background-color: #fff;
   margin: auto;
   padding: 20px;
@@ -187,10 +187,10 @@ li {
 }
 
 .masonry .item {
-  display: inline-block;
+  /* display: inline-block; */
   padding: 0;
   margin: 10px 0;
-  width: 100%;
+  /* width: 100%; */
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
