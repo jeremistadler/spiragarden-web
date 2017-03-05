@@ -20,3 +20,5 @@ Kör/cykla genom norr eller Rynninge mot Arboga/Fellingsbro. Eller motorvägen o
 Motorväg mot Göteborg. Ta av vid Glanshammar. Ta dig in till samhället genom att köra upp på viadukten och sedan svänga vänster. Kör förbi ICA och skolan och bygdegården. Uppe på krönet kommer en liten skylt mot Valla (lätt att missa och köra förbi, kör sakta) sväng höger in på den grusvägen. Följ den genom åkrar och hus tills du kommer till asfalt igen. Där tar du vänster. Strax kommer skylt Nasta/Spiragården även här ganska hastigt så kör lugnt. Höger in, och följ den till vägens slut. En till skylt vid Spiragården kommer i början av gården. Sväng inte in på en annan grusväg utan fortsätt på samma hela tiden. Svänger du ändå av där den delar sig hamnar du vid kalkbrottet och det är i och för sig också fint att se och bada i :)
 
 Varmt välkommen hit!
+
+{% include map.html %}
