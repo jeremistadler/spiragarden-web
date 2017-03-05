@@ -117,26 +117,23 @@ li {
 .header .title {
 	font-family: 'Satisfy', cursive;
 	font-size: 48px;
-
 	text-align: center;
 	position: absolute;
-	top: 104px;
+	top: 91px;
 	left: 0;
 	right: 0;
-
 	color: #fff;
 	text-shadow: 0 0 10px black, 0 0 5px black;
 }
 
 .header .logo {
-  width: 173px;
+  width: 155px;
   display: block;
-	margin: auto;
-
-	position: absolute;
-	top: 64px;
-	left: 0;
-	right: 0;
+  margin: auto;
+  position: absolute;
+  top: 64px;
+  left: 0;
+  right: 0;
 }
 
 .navbar {
@@ -182,16 +179,16 @@ li {
 .masonry {
   margin: 0;
   padding: 0;
-  -moz-column-gap: 0;
-  -webkit-column-gap: 0;
-  column-gap: 0;
+  -moz-column-gap: 20px;
+  -webkit-column-gap: 20px;
+  column-gap: 20px;
   font-size: 0;
 }
 
 .masonry .item {
   display: inline-block;
   padding: 0;
-  margin: 0;
+  margin: 10px 0;
   width: 100%;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
