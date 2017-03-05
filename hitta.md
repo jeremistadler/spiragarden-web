@@ -3,7 +3,7 @@ layout: home
 navId: findus
 title: Hitta till Spiragården
 description: Ekologiskt hus bondgård med får, grisar, och hönor.
-permalink: /findus
+permalink: /hitta
 ---
 
 ## Hitta till Spiragården
