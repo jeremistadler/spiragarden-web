@@ -196,6 +196,10 @@ li {
   -webkit-box-sizing: border-box;
 }
 
+.masonry .item-full {
+	column-span: all;
+}
+
 .masonry .item img {
 	width: 100%;
 }
