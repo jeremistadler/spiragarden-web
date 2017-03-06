@@ -1,9 +1,8 @@
 <div class="masonry">
 	{% for i in (1..3) %}
-		<picture class="item item-full">
-		  <source media="(min-width: 800px)" srcset="assets/img/img{{ i }}@1024.jpg">
-		  <img src="assets/img/img{{ i }}@640.jpg">
-		</picture>
+		<div class="item item-full">
+		  <img src="assets/img/img{{ i }}@1024.jpg">
+		</div>
 	{% endfor %}
 	{% for i in (4..13) %}
 		<picture class="item">
