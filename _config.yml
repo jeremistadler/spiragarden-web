@@ -2,7 +2,7 @@
 title: "Spiragården - En plats att växa på"
 description: "En plats att växa på"
 url: https://spiragården.se
-analytics_account: "UA-123"
+analytics_account: "UA-34450351-3"
 
 # build settings
 exclude: ["package.json"]
